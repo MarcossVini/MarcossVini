@@ -17,7 +17,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MarcossVini/MarcossVini/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/MarcossVini/MarcossVini/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
 
