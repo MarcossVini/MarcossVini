@@ -15,9 +15,7 @@
   <img src="https://profile-counter.glitch.me/MarcossVini/count.svg?"  />
 </div>
 
-###
 
-<img src="https://github.com/MarcossVini/MarcossVini/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
 
@@ -76,12 +74,7 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=MarcossVini&theme=gruvbox_light" alt="Layout with last medium posts"  />
-</div>
-
-###
+  <h2 align="left">Redes Sociais</h2>
 
 <div align="left">
   <a href="www.linkedin.com/in/engmarcosvncs" target="_blank">
