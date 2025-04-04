@@ -72,20 +72,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 </div>
-
-###
-  <h2 align="left">Redes Sociais</h2>
-
+<h2 align="left">Redes Sociais</h2>
 <div align="left">
-  <a href="https://www.linkedin.com/in/engmarcosvncs/" target="_blank">
+  <a href="https://www.linkedin.com/in/engmarcosvncs/" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/_marcossvncs/" target="_blank">
+  <a href="https://www.instagram.com/_marcossvncs/" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://gmail.com/marcos.vinisoft@gmail.com" target="_blank">
+  <a href="mailto:marcos.vinisoft@gmail.com" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-###
