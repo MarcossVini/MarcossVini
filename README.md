@@ -1,12 +1,12 @@
-<h1 align="left">👋 Hi, I'm Marcos Vinicius — Software Engineer</h1>
+<h1 align="left"> Hi, I'm Marcos Vinicius — Software Engineer</h1>
 
 <p align="left">
-  Experienced backend developer passionate about building scalable, reliable systems and leveraging cloud infrastructure and AI to solve complex problems efficiently. Dedicated to clean code, performance optimization, and continuous learning. 🚀
+  Experienced backend developer passionate about building scalable, reliable systems and leveraging cloud infrastructure and AI to solve complex problems efficiently. Dedicated to clean code, performance optimization, and continuous learning. 
 </p>
 
 ---
 
-### 🧰 Core Technologies
+###  Core Technologies
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
@@ -22,7 +22,7 @@
 </div>
 
 <details>
-<summary>📚 Additional Experience</summary>
+<summary> Additional Experience</summary>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" />
@@ -38,7 +38,7 @@
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MarcossVini&show_icons=true&count_private=true&theme=dracula" height="150" />
@@ -47,7 +47,7 @@
 
 ---
 
-### 🌐 Let's connect!
+###  Let's connect!
 
 <div align="left">
   <a href="https://www.linkedin.com/in/engmarcosvncs/" target="_blank" aria-label="LinkedIn">
