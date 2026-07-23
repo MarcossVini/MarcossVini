@@ -34,29 +34,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas" />
 </div>
-</details>
 
----
-
-###  GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcossVini&show_icons=true&count_private=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcossVini&layout=compact&langs_count=6&theme=dracula" height="150" />
-</div>
-
----
-
-###  Let's connect!
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/engmarcosvncs/" target="_blank" aria-label="LinkedIn">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/_marcossvncs/" target="_blank" aria-label="Instagram">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" alt="Instagram" />
-  </a>
-  <a href="mailto:marcos.vinisoft@gmail.com" target="_blank" aria-label="Email">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" alt="Email" />
-  </a>
-</div>
