@@ -1,180 +1,87 @@
-from pathlib import Path
-import zipfile, textwrap
 
-base = Path("/mnt/data/marcos-github-profile")
-workflow_dir = base / ".github" / "workflows"
-workflow_dir.mkdir(parents=True, exist_ok=True)
+<div align="center">
 
-readme = r'''<div align="center">
-
-# Marcos Vinicius
+# MARCOS VINICIUS
 
 **Software Engineer · Backend & FullStack Developer**
 
-Building software with a focus on **backend engineering, system design and reliable applications**.
+Building web applications, APIs and integrations with a focus on maintainable software and reliable systems.
 
-[LinkedIn](https://linkedin.com/in/engmarcosvncs) · [GitHub](https://github.com/MarcossVini) · [Email](mailto:marcos.vinisoft@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/engmarcosvncs) · [GitHub](https://github.com/MarcossVini)
 
-<br/>
-
-![Profile views](https://komarev.com/ghpvc/?username=MarcossVini&color=24292f&style=flat-square&label=PROFILE+VIEWS)
+![Profile views](https://komarev.com/ghpvc/?username=MarcossVini&style=flat-square&color=6e6e6e)
 
 </div>
 
 ---
 
-## About
+## ABOUT
 
-I'm a Software Engineer graduated from the **Federal University of Amazonas (UFAM)** and currently pursuing a postgraduate degree in **Data Science**.
+Software Engineer graduated from the Federal University of Amazonas (UFAM), currently pursuing a postgraduate degree in Data Science.
 
-My professional experience includes building web applications, REST APIs, ERP systems and integrations across different business domains. I work mainly with TypeScript, Node.js and React, with additional experience in Python, .NET, PHP and computer vision research.
+I work across backend and frontend development, building web systems, REST APIs, ERP solutions and third-party integrations. My experience includes developing applications with TypeScript, Node.js and React, working with relational and non-relational databases, and using Python for automation and data analysis.
 
-I'm interested in backend engineering, software architecture, cloud infrastructure, distributed systems and data-driven solutions. I value maintainable code, clear domain boundaries, automated testing and continuous improvement.
+I am interested in software architecture, backend engineering, distributed systems and the practical application of data and AI.
 
----
 
-## Activity
+## ACTIVITY
 
 <div align="center">
-
-<!-- GitHub contribution statistics -->
-<img
-  src="https://github-readme-stats.vercel.app/api?username=MarcossVini&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=ffffff&title_color=24292f&text_color=57606a&icon_color=24292f"
-  height="165"
-  alt="GitHub statistics"
-/>
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcossVini&layout=compact&hide_border=true&langs_count=8&bg_color=ffffff&title_color=24292f&text_color=57606a"
-  height="165"
-  alt="Most used languages"
-/>
-
-<br/>
-
-<img
-  src="https://streak-stats.demolab.com?user=MarcossVini&hide_border=true&background=FFFFFF&ring=24292F&fire=24292F&currStreakLabel=24292F&sideLabels=57606A&currStreakNum=24292F&sideNums=24292F&dates=8C959F"
-  width="70%"
-  alt="GitHub contribution streak"
-/>
-
-<br/>
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=MarcossVini&bg_color=ffffff&color=24292f&line=57606a&point=24292f&area=true&area_color=eaeef2&hide_border=true"
-  width="100%"
-  alt="GitHub contribution activity graph"
-/>
-
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=MarcossVini&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=default" alt="GitHub statistics" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MarcossVini&layout=compact&hide_border=true&langs_count=8&theme=default" alt="Most used languages" />
 </div>
-
-## Contribution map
-
 <div align="center">
-
-<!-- Generated automatically by .github/workflows/update-snake.yml -->
-<img
-  src="https://raw.githubusercontent.com/MarcossVini/MarcossVini/output/github-contribution-grid-snake.svg"
-  width="100%"
-  alt="GitHub contribution graph animation"
-/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcossVini&hide_border=true&theme=default" alt="GitHub contribution streak" />
 </div>
 
----
 
-## Technology
+## TECH STACK
 
-**Main stack**
+**Core**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,nestjs" alt="TypeScript, JavaScript, Node.js, React, Next.js and NestJS" />
-</p>
+![TypeScript](https://img.shields.io/badge/TypeScript-ffffff?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-ffffff?style=flat-square&logo=nodedotjs&logoColor=339933)
+![React](https://img.shields.io/badge/React-ffffff?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-ffffff?style=flat-square&logo=nextdotjs&logoColor=000000)
+![NestJS](https://img.shields.io/badge/NestJS-ffffff?style=flat-square&logo=nestjs&logoColor=E0234E)
 
-**Data & infrastructure**
+**Data & Infrastructure**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,aws,git,github,githubactions" alt="PostgreSQL, MySQL, MongoDB, Redis, Docker, AWS, Git, GitHub and GitHub Actions" />
-</p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ffffff?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-ffffff?style=flat-square&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-ffffff?style=flat-square&logo=mongodb&logoColor=47A248)
+![Redis](https://img.shields.io/badge/Redis-ffffff?style=flat-square&logo=redis&logoColor=DC382D)
+![Docker](https://img.shields.io/badge/Docker-ffffff?style=flat-square&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-ffffff?style=flat-square&logo=amazonaws&logoColor=232F3E)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-ffffff?style=flat-square&logo=githubactions&logoColor=2088FF)
 
 **Additional experience**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,php,laravel,dotnet,angular,vue,opencv,tensorflow" alt="Python, PHP, Laravel, .NET, Angular, Vue, OpenCV and TensorFlow" />
-</p>
+![Python](https://img.shields.io/badge/Python-ffffff?style=flat-square&logo=python&logoColor=3776AB)
+![PHP](https://img.shields.io/badge/PHP-ffffff?style=flat-square&logo=php&logoColor=777BB4)
+![Laravel](https://img.shields.io/badge/Laravel-ffffff?style=flat-square&logo=laravel&logoColor=FF2D20)
+![.NET](https://img.shields.io/badge/.NET-ffffff?style=flat-square&logo=dotnet&logoColor=512BD4)
+![Angular](https://img.shields.io/badge/Angular-ffffff?style=flat-square&logo=angular&logoColor=DD0031)
+![Vue.js](https://img.shields.io/badge/Vue.js-ffffff?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![OpenCV](https://img.shields.io/badge/OpenCV-ffffff?style=flat-square&logo=opencv&logoColor=5C3EE8)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ffffff?style=flat-square&logo=tensorflow&logoColor=FF6F00)
 
----
+## FOCUS AREAS
 
-## Engineering interests
+- Backend development and API design
+- Software architecture and code quality
+- Database modeling and integration
+- Distributed processing and asynchronous jobs
+- Data analysis and automation
 
-- Backend architecture and REST API design
-- Distributed systems and service integration
-- Relational and NoSQL database design
-- Automated testing and code quality
-- Cloud infrastructure and containerization
-- Data engineering, computer vision and applied AI
+## EDUCATION
 
----
-
-## Education
-
-**B.Sc. in Software Engineering**  
-Federal University of Amazonas (UFAM) · 2018–2024
-
-**Postgraduate studies in Data Science**  
-UniCesumar · 2024–Present
+- **B.Sc. in Software Engineering** — Federal University of Amazonas (UFAM), 2024
+- **Postgraduate studies in Data Science** — UniCesumar, in progress
 
 ---
 
 <div align="center">
-
-*Designing, building and improving software — one iteration at a time.*
-
+  <sub> always available to contribute to new projects.</sub>
 </div>
-'''
-
-workflow = r'''name: Update contribution snake
-
-on:
-  schedule:
-    - cron: "17 */12 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-
-    steps:
-      - name: Generate contribution snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: MarcossVini
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Publish generated SVG files
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-'''
-
-(base / "README.md").write_text(readme, encoding="utf-8")
-(workflow_dir / "update-snake.yml").write_text(workflow, encoding="utf-8")
-
-zip_path = Path("/mnt/data/marcos-github-profile-files.zip")
-with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED) as z:
-    for p in base.rglob("*"):
-        if p.is_file():
-            z.write(p, p.relative_to(base))
-
-print("Created:")
-print("/mnt/data/marcos-github-profile/README.md")
-print("/mnt/data/marcos-github-profile/.github/workflows/update-snake.yml")
-print(zip_path)
